@@ -9,11 +9,9 @@ Everyone knows Instagram, it's an ideal fun exercise to practice your beginner H
 - Centering containers.
 - Flow left and right.
 - Importing images.
-- This is a student doing the misspell challenge
 
 
 ## 🌱  How to start this project
-
 
 This project does not come with the necessary files to start working, we recommend you start coding from an empty boilerplate.
 
